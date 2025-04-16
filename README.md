@@ -1,6 +1,6 @@
 ![MasterHead](https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-260nw-1676060566.jpg)
 <h1 align="center">Hi 👋, I'm Arnav Pareek</h1>
-<h3 align="center">FrontEnd developer from NIT Manipur</h3>
+<h3 align="center">Java Full Stack Developer, Genpact</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-QgzLGPxx-4hWOXOTHwu7PB5YBuErJHIFw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav904&label=Profile%20views&color=0e75b6&style=flat" alt="arnav904" /> </p>
